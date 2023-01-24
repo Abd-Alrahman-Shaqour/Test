@@ -7,7 +7,12 @@ public class dar : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        string idk;
+        
     }
 
+    // Update is called once per frame
+    void Update()
+    {
+        string asdasd;
+    }
 }
